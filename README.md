@@ -12,4 +12,9 @@ The difference is that this example was updated to:
 
 ## Client ID
 Setup Client ID in local.properties file.
-Example Client ID: 569458729478-g18o2rojvs5a8eh9nk41f6v42mpraq9k.apps.googleusercontent.com
+
+Example Client ID:
+
+```
+569458729478-g18o2rojvs5a8eh9nk41f6v42mpraq9k.apps.googleusercontent.com
+```
